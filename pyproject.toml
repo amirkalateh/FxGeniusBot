@@ -12,6 +12,18 @@ langchain-openai = "^0.2.2"
 psycopg2-binary = "^2.9.9"
 langchain-community = "^0.3.2"
 langgraph = "^0.2.38"
+pydantic = "^2.9.2"
+fastapi = "^0.115.4"
+uvicorn = "^0.32.0"
+typing-extensions = "^4.12.2"
+langchain = "^0.3.7"
+sqlalchemy = "^2.0.36"
+colorama = "^0.4.6"
+pyfiglet = "^1.0.2"
+langchain-mistralai = "^0.2.1"
+httpx = "^0.27.2"
+tenacity = "^9.0.0"
+python-dotenv = "^1.0.1"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md

@@ -1,0 +1,20 @@
+[
+  {
+    "content": "User is a developer",
+    "timestamp": "2024-11-03T17:36:20.072318",
+    "metadata": {
+      "importance": 4,
+      "source": "explicit_save",
+      "tool_call": true
+    }
+  },
+  {
+    "content": "User is feeling sad about the political situation in the Middle East",
+    "timestamp": "2024-11-03T17:37:11.498613",
+    "metadata": {
+      "importance": 3,
+      "source": "explicit_save",
+      "tool_call": true
+    }
+  }
+]

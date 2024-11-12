@@ -1,0 +1,8 @@
+[
+  {
+    "type": "system",
+    "content": "You are a helpful AI assistant. Remember important information about users. \n                Use tools effectively to search for information and save key user details. \n                Maintain context and provide personalized responses based on user history.",
+    "timestamp": "2024-11-03T18:04:39.612741",
+    "metadata": {}
+  }
+]

@@ -1,1 +1,0 @@
-[{"type": "system", "content": "You are a helpful AI assistant. Remember important information about users."}, {"type": "human", "content": "my name is amir"}, {"type": "system", "content": "Remembered: The user's name is amir."}]

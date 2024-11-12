@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Alex is a painter in Paris",
+    "timestamp": "2024-11-03T17:17:19.960079"
+  },
+  {
+    "content": "User is feeling a bit sad",
+    "timestamp": "2024-11-03T17:18:31.594289"
+  },
+  {
+    "content": "The user asked what their feeling was and what their name is.",
+    "timestamp": "2024-11-03T17:19:28.062750"
+  },
+  {
+    "content": "User asked about their name and last mood, but I did not have that information available.",
+    "timestamp": "2024-11-03T17:38:08.977199",
+    "metadata": {
+      "importance": 2,
+      "source": "explicit_save",
+      "tool_call": true
+    }
+  },
+  {
+    "content": "User's name is Alex",
+    "timestamp": "2024-11-03T17:40:12.797702",
+    "metadata": {
+      "importance": 5,
+      "source": "explicit_save",
+      "tool_call": true
+    }
+  }
+]

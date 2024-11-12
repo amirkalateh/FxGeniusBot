@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Name: Jonnas",
+    "timestamp": "2024-11-03T18:03:30.794874",
+    "metadata": {
+      "importance": 5,
+      "source": "explicit_save",
+      "tool_call": true
+    }
+  },
+  {
+    "content": "Lives in Beirut",
+    "timestamp": "2024-11-03T18:03:31.683135",
+    "metadata": {
+      "importance": 5,
+      "source": "explicit_save",
+      "tool_call": true
+    }
+  },
+  {
+    "content": "Likes football, favorite team is Real Madrid",
+    "timestamp": "2024-11-03T18:06:09.220697",
+    "metadata": {
+      "importance": 4,
+      "source": "explicit_save",
+      "tool_call": true
+    }
+  },
+  {
+    "content": "Favorite soccer team is Barcelona",
+    "timestamp": "2024-11-03T18:09:45.247098",
+    "metadata": {
+      "importance": 4,
+      "source": "explicit_save",
+      "tool_call": true
+    }
+  },
+  {
+    "content": "Jonnas has a rabbit named Lueii who is 5 years old and a lop breed",
+    "timestamp": "2024-11-03T18:10:57.783183",
+    "metadata": {
+      "importance": 4,
+      "source": "explicit_save",
+      "tool_call": true
+    }
+  }
+]
